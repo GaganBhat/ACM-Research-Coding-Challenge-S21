@@ -1,11 +1,13 @@
 # Gagan Bhat ACM Research Coding Challenge Solution
 
 ## Result
+<div align="center">
+Simple visualization of Tomato curly stunt virus from provided Genbank. 
+</div>
 
 ![](ACM_Circular_Genome_Representation.png)
 
 
-Simple visualization of Tomato curly stunt virus from provided Genbank. 
 
 I used a paper written by Dr. Zulkower and Dr. Rosser on a python package they developed to represent genes using Biopython internally. 
 
