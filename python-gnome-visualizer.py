@@ -21,5 +21,5 @@ graphic_record = translator.translate_record(
 graphic_record.labels_spacing = 15
 
 
-ax, _ = graphic_record.plot(figure_width=8, figure_height=11)
+ax, _ = graphic_record.plot(figure_width=6, figure_height=6)
 ax.figure.savefig("ACM_Circular_Genome_Representation.png")
