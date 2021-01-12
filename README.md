@@ -9,7 +9,7 @@ Simple visualization of Tomato curly stunt virus from provided Genbank.
 
 
 
-I used a paper written by Dr. Zulkower and Dr. Rosser on a python package they developed to represent genes using Biopython internally. 
+I used a paper written by Dr. Zulkower and Prof. Rosser on a python package they developed to represent genes using Biopython internally. 
 
 I specified the source, color mapping and required feature properties to make it easy to read. 
 
