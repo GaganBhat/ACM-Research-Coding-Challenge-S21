@@ -7,9 +7,7 @@ Simple visualization of Tomato curly stunt virus from provided Genbank.
 
 ![](ACM_Circular_Genome_Representation.png)
 
-
-
-I used a paper written by Dr. Zulkower and Prof. Rosser on a python package they developed to represent genes using Biopython internally. 
+I used a paper written by Dr. Zulkower and Prof. Rosser on a python package they developed to represent genes using Biopython internally. In the paper, they described the plotting library alongside its configurable parameters to ideally represent the genbank 
 
 I specified the source, color mapping and required feature properties to make it easy to read. 
 
